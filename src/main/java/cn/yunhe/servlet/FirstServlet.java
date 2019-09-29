@@ -25,7 +25,7 @@ public class FirstServlet extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
-		response.getWriter().print("hello maven and git and commit");
+		response.getWriter().print("hello maven and git and commit and gourp");
 	}
 
 	/**
